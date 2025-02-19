@@ -1,4 +1,4 @@
-### Hi there! 👋  
+Hi there! 👋  
 I'm **Mohib Rizwan**, a 14-year-old learning **HTML, CSS, Git, and GitHub**.  
 I'm new to web development and excited to build cool projects as I learn. 🚀  
 
